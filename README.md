@@ -1,8 +1,16 @@
 # Webdriver.io-Appium-Cucumber-Framewrok
-Implemented POM with multiple reporters, Assertions and Cucumber Setup
+> Implemented POM with multiple reporters, Assertions and Cucumber Setup
+ 
+## FEATURES:
+- Supports multiple reports for cucumber setup.
+- Handled Assertions using `mocha`.
+- Supports Cucumber Feature file execution.
 
-to run the code use:
-      "npm run wdio"
+
+**To run the code use:**
+- `npm run wdio`
       
-To Generate Allure Reports:
-    "npm run allure"
+**To Generate Allure Reports:**
+- `npm run allure`
+
+For Better Understanding visit [webdriver.io](https://webdriver.io/) offical website
